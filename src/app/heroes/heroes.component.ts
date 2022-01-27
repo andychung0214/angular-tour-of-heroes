@@ -1,8 +1,6 @@
 import { HeroService } from './../hero.service';
-import { HEROES } from './../mock-heroes';
 import { Hero } from './../hero';
 import { Component, OnInit } from '@angular/core';
-import { tap } from 'rxjs';
 
 
 @Component({
